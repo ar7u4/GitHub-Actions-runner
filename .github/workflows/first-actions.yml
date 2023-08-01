@@ -1,4 +1,4 @@
-name: My First GitHub Actions with runner
+name: My First GitHub Actions with self-hosted
 
 on: [push]
 
